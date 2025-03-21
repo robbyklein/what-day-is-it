@@ -103,12 +103,6 @@ h1 {
   }
 }
 
-@media (min-width: 1200px) {
-  .split-sections {
-    grid-template-columns: repeat(4, 1fr);
-  }
-}
-
 .split-section {
   background-color: var(--cards);
   border-radius: 6px;
